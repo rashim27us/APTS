@@ -165,7 +165,7 @@ All contributors are acknowledged in [ACKNOWLEDGEMENTS.md](./ACKNOWLEDGEMENTS.md
 ## Questions?
 
 - Search [existing issues](https://github.com/OWASP/APTS/issues)
-- Ask in [GitHub Discussions](https://github.com/OWASP/APTS/discussions)
+- Open a new [GitHub Issue](https://github.com/OWASP/APTS/issues) for questions or clarification
 - Contact the project lead (see [Frontispiece](./standard/Frontispiece.md))
 - Project roles and governance: see [GOVERNANCE.md](./GOVERNANCE.md)
 - Security concerns: see [SECURITY.md](./SECURITY.md)
